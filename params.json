@@ -1,0 +1,6 @@
+{
+  "name": "MongoDB Worksheet",
+  "tagline": "DATA 210 - Spring 2016",
+  "body": "Since this is our final worksheet, I wanted to do something a little different and special. You have the skills now that if your boss came to you and said investigate MongoDB, you would be able to install configure and test MongoDB. In other words, I want you to show off your mad skills.\r\n\r\n1. Write a set of instructions to install MongoDB on Ubuntu 14.04 (this is the OS you are running under vagrant). \r\n\r\n2. Once MongoDB is up and running, create a short tutorial that shows how you can insert and query the database. Please use the specific towns example from the textbook. Your queries don't need to be complex. Just show the basics like we did in class.\r\n\r\n\r\n### Straight forward questions\r\n\r\n1. What type of database is MongoDB?\r\n\r\n2. What programming language does it use?\r\n\r\n3. How do you query MongoDB?\r\n\r\n4. What types of queries does it support and does it not support?\r\n\r\n5. Can it support nested data?\r\n\r\n6. What form is the data in the database?\r\n\r\n7. Compare and contrast MongoDB and Riak.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
